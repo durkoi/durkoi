@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @durkoi
-- 👀 I’m interested in JS, NodeJS, Php, Angular and anything related to web technologies.
-- 🌱 I’m currently learning Angular, NodeJs, Php
+- 👀 I’m interested in JS, NodeJS, Angular and anything related to web technologies.
+- 🌱 I’m currently learning Angular, NodeJs, about to pick up Python soon.
 - 💞️ I’m looking to collaborate on investment software.
 - 📫 How to reach me : here on github
 
